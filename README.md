@@ -1,7 +1,7 @@
 ### Hi there 👋
 ### I'm Hamed a Software Engineering Student and a Full-Stack Designer ( Product Designer & Frontend Developer )
--🔭 I’m currently a Product designer of <a align="center" href="https://pengguin.net/">🐧 Penngguin.net </a>  ( _an Educational game players based for language learners_)
--🌱 I’m currently learning SpringBoot , basics of Devops & microservice architecture 
+- 🔭 I’m currently a Product designer of <a align="center" href="https://pengguin.net/">🐧 Penngguin.net </a>  ( _an Educational game players based for language learners_)
+- 🌱 I’m currently learning SpringBoot , basics of Devops & microservice architecture 
 - 📫 Reach me on :  <a align="center" href="https://www.linkedin.com/in/hamedbenida/"><img align="center" alt="codeSTACKr | LinkedIn"  src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
  [<img align="center" alt="codeSTACKr | email"  src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" />](mailto:hamedbenida@etudiant-fst.utm.tn?subject=[GitHub])
 --------------------------------------------------------------------------------------------------------------- 
