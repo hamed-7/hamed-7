@@ -3,7 +3,7 @@
 - 🔭 I’m currently a Product designer of <a align="center" href="https://pengguin.net/">🐧 Penngguin.net </a>  ( _an Educational game players based for language learners_)
 - 🌱 I’m currently learning SpringBoot , basics of Devops & microservice architecture 
 - 📫 Reach me on :  <a align="center" href="https://www.linkedin.com/in/hamedbenida/"><img align="center" alt="codeSTACKr | LinkedIn"  src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
- [<img align="center" alt="codeSTACKr | email"  src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" />](mailto:hamedbenida@etudiant-fst.utm.tn?subject=[GitHub])
+ [<img align="center" alt="codeSTACKr | email"  src="https://upload.wikimedia.org/wikipedia/commons/2/2e/Gmail_2020.png" />](mailto:hamedbenida@etudiant-fst.utm.tn?subject=[GitHub])
 --------------------------------------------------------------------------------------------------------------- 
 ### Languages and Tools:
 
