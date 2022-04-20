@@ -37,8 +37,3 @@ Here are some ideas to get you started:
 -->
 
 
-Hi there wave
-
-Languages and Tools:
-Visual Studio Code intellij HTML5 CSS3 JavaScript React springboot c# cpp flutter java symphony SQL MongoDB Git GitHub Terminal
-
