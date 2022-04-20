@@ -1,16 +1,16 @@
 ### Hi there 👋
 ### I'm Hamed a Software Engineering Student and a Full-Stack Designer ( Product Designer & Frontend Developer )
-🔭 I’m currently a Product designer of <a align="center" href="https://pengguin.net/">🐧 Penngguin.net </a>  ( _an Educational game players based for language learners_)
-🌱 I’m currently learning SpringBoot , basics of Devops & microservice architecture 
+-🔭 I’m currently a Product designer of <a align="center" href="https://pengguin.net/">🐧 Penngguin.net </a>  ( _an Educational game players based for language learners_)
+-🌱 I’m currently learning SpringBoot , basics of Devops & microservice architecture 
 - 📫 Reach me on :  <a align="center" href="https://www.linkedin.com/in/hamedbenida/"><img align="center" alt="codeSTACKr | LinkedIn"  src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
  [<img align="center" alt="codeSTACKr | email"  src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" />](mailto:hamedbenida@etudiant-fst.utm.tn?subject=[GitHub])
 --------------------------------------------------------------------------------------------------------------- 
 ### Languages and Tools:
 
-<img align="left" alt="Figma" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" />
+<img align="left" alt="Figma" height="26px" width="auto" src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" />
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
+<img align="left" alt="HTML5"  width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 
