@@ -3,7 +3,7 @@
 - 🔭 I’m currently a Product designer of <a align="center" href="https://pengguin.net/">🐧 Penngguin.net </a>  ( _an Educational game players based for language learners_)
 - 🌱 I’m currently learning SpringBoot , basics of Devops & microservice architecture 
 - 📫 Reach me on :  <a align="center" href="https://www.linkedin.com/in/hamedbenida/"><img align="center" alt="codeSTACKr | LinkedIn"  src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
- [<img align="center" alt="codeSTACKr | email"  src="https://upload.wikimedia.org/wikipedia/commons/2/2e/Gmail_2020.png" width="40px" height ="auto" />](mailto:hamedbenida@etudiant-fst.utm.tn?subject=[GitHub]) [<img align="center" alt="codeSTACKr | Gmail"  src="https://img.shields.io/badge/Gmail-0077B5?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:hamedbenida@etudiant-fst.utm.tn?subject=[GitHub]) 
+ [<img align="center" alt="codeSTACKr | Gmail"  src="https://img.shields.io/badge/Gmail-0077B5?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:hamedbenida@etudiant-fst.utm.tn?subject=[GitHub]) 
 --------------------------------------------------------------------------------------------------------------- 
 ### Languages and Tools:
 
@@ -53,6 +53,8 @@ Here are some ideas to get you started:
 &nbsp;&nbsp;
 [![website](./img/instagram-light.svg)](https://instagram.com/codeSTACKr#gh-light-mode-only)
 [![website](./img/instagram-dark.svg)](https://instagram.com/codeSTACKr#gh-dark-mode-only)
+
+[<img align="center" alt="codeSTACKr | email"  src="https://upload.wikimedia.org/wikipedia/commons/2/2e/Gmail_2020.png" width="40px" height ="auto" />](mailto:hamedbenida@etudiant-fst.utm.tn?subject=[GitHub]) 
 -->
 
 
